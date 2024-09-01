@@ -31,11 +31,11 @@ Below is a list of the tasks and projects I've worked on during the internship. 
 
 1. **Task 1: Visualizing Population Distribution Using Bar Charts and Histograms**
    - Description: In this task, the objective was to create visual representations of population distribution across different years using bar charts and histograms. The task involved handling and cleaning a dataset containing population data from various countries over several decades. The visualizations aimed to provide insights into the distribution of populations across different years, allowing for an analysis of trends and patterns over time.  .
-   - Tools Used: Python: The primary programming language used for data manipulation and visualization.
-                 Pandas: For data loading, cleaning, and manipulation.
-                 Matplotlib: For creating static visualizations, such as bar charts and histograms.
-                 Seaborn: For enhanced and aesthetically pleasing visualizations, including histograms with KDE (Kernel Density Estimate) plots.
-                 Jupyter Notebook: As the development environment for writing and executing the code.
+   - Tools Used: **Python**: The primary programming language used for data manipulation and visualization.\n
+                 **Pandas**: For data loading, cleaning, and manipulation.\n
+                 **Matplotlib**: For creating static visualizations, such as bar charts and histograms.\n
+                 **Seaborn**: For enhanced and aesthetically pleasing visualizations, including histograms with KDE (Kernel Density Estimate) plots.\n
+                 **Jupyter Notebook**: As the development environment for writing and executing the code.\n
    - Outcome: The task resulted in the successful generation of bar charts and histograms for each year in the dataset, showcasing the distribution of populations across different countries. The visualizations revealed patterns such as the growth in population over time and differences in distribution across countries. The process also involved cleaning the data by handling missing values, ensuring the accuracy of the visualizations. These visualizations can now serve as a basis for further analysis and reporting on population trends..
 
 2. **Task 2: [Project/Task Title]**
