@@ -38,17 +38,26 @@ Below is a list of the tasks and projects I've worked on during the internship. 
                  **Jupyter Notebook**: As the development environment for writing and executing the code.
    - Outcome: The task resulted in the successful generation of bar charts and histograms for each year in the dataset, showcasing the distribution of populations across different countries. The visualizations revealed patterns such as the growth in population over time and differences in distribution across countries. The process also involved cleaning the data by handling missing values, ensuring the accuracy of the visualizations. These visualizations can now serve as a basis for further analysis and reporting on population trends..
 
-2. **Task 2: [Project/Task Title]**
-   - Description: Briefly describe the task or project.
-   - Tools Used: List any specific tools or libraries used.
-   - Outcome: Summarize the results or findings.
+2. **Task 2: Data Cleaning and Exploratory Data Analysis on the Titanic Dataset**
+   - Description: In this task, the goal was to perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset, a well-known dataset from Kaggle. The dataset includes information about the passengers on the Titanic, such as their age, gender, ticket class, and survival status. The task involved cleaning the dataset by handling missing values, correcting data types, and removing or imputing outliers. After cleaning the data, EDA was conducted to explore relationships between variables, identify patterns, and uncover insights about the factors that influenced passenger survival.
+   - Tools Used: **Python**: The programming language used for data cleaning and analysis.
+**Pandas**: For data manipulation, cleaning, and exploratory analysis.
+**NumPy**: For numerical operations and handling missing data.
+**Matplotlib**: For creating basic visualizations to support EDA.
+**Seaborn**: For advanced visualizations to explore relationships between variables, including pair plots, heatmaps, and bar charts.
+**Jupyter Notebook**: The environment used for writing and running the analysis code.
+   - Outcome: The task successfully resulted in a clean and well-structured Titanic dataset, ready for further analysis or modeling. The exploratory data analysis provided key insights, such as the impact of passenger class, gender, and age on survival rates. For instance, the analysis revealed that women and children had higher survival rates, and that passengers in first class were more likely to survive compared to those in lower classes. The visualizations created during EDA helped to highlight these relationships and trends, making the data more understandable and actionable.
 
-3. **Task 3: [Project/Task Title]**
-   - Description: Briefly describe the task or project.
-   - Tools Used: List any specific tools or libraries used.
-   - Outcome: Summarize the results or findings.
+3. **Task 3: Building a Decision Tree Classifier for Customer Purchase Prediction**
+   - Description: In this task, the objective was to build a decision tree classifier to predict whether a customer would purchase a product or service based on their demographic and behavioral data. The task utilized the Bank Marketing dataset from the UCI Machine Learning Repository, which includes customer data such as age, job, marital status, education, and previous marketing campaign outcomes. The goal was to develop a predictive model that can help in identifying potential customers who are more likely to purchase a product, thereby optimizing marketing efforts.
+   - Tools Used: **Python**: The programming language used for data processing, modeling, and evaluation.
+**Pandas**: For data loading, preprocessing, and manipulation.
+**Scikit-learn**: For implementing the decision tree classifier, performing data splitting, and evaluating the model's performance.
+**Matplotlib & Seaborn**: For visualizing the decision tree, feature importance, and other relevant insights.
+**Jupyter Notebook**: The development environment used for the entire workflow, including code execution, visualization, and documentation.
+   - Outcome: The task successfully resulted in a trained decision tree classifier capable of predicting customer purchases with a good level of accuracy. The model was evaluated using metrics such as accuracy, precision, recall, and the F1-score, ensuring its effectiveness in making predictions. The analysis also included a visualization of the decision tree, providing insight into how different demographic and behavioral factors influence purchasing decisions. Additionally, the importance of each feature in the decision-making process was assessed, helping to identify the most influential variables. The model can be used to target specific customer segments, improving the efficiency of marketing campaigns.
 
-   _(Add more tasks/projects as needed)_
+
 
 ## Technologies Used
 
