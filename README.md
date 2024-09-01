@@ -99,11 +99,3 @@ If you have any questions or would like to connect, feel free to reach out to me
 Thank you for visiting my repository!
 
 ---
-
-### Notes:
-
-- Replace placeholders like `[Your Name]`, `[Project/Task Title]`, `[Your LinkedIn Profile]`, etc., with your actual information.
-- Add more details about each project as you complete them.
-- Consider including a `requirements.txt` file if you're using specific Python libraries that need to be installed.
-
-This `README.md` will help others understand what you've accomplished during your internship and how to navigate your work. Good luck with your internship!
